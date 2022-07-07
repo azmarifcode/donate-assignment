@@ -164,6 +164,27 @@ hr {
 }
 /* Donate Plan ended */
 
+/* highest donate started */
+.donnar {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.donnar img {
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    border: 10px solid #ff4757;
+;
+}
+.donnar h3 {
+    margin-left: 50px;
+}
+.firoz {
+    padding-left: 60px;
+}
+/* highest donate ended */
+
 /* subscribe form started */
 form {
     background-color: #FFF4D6;
