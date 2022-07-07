@@ -192,7 +192,7 @@ form {
     border: none;
     border-radius: 0 5px 5px 0;
 }
-footer {@import url(https://fonts.googleapis.com/css?family=Lobster:regular);
+footer {
     background-color: #000;
     color: white;
     box-sizing: border-box;
