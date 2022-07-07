@@ -127,6 +127,9 @@ hr {
     box-shadow: 2px 2px 8px #000;
     background-color: #e84393;
 }
+/* middle section ended */
+
+/* Donate Plan started */
 .donate-plan {
     margin: 100px;
 }
@@ -159,6 +162,9 @@ hr {
     padding-top: 40px; 
     box-sizing: border-box;
 }
+/* Donate Plan ended */
+
+/* subscribe form started */
 form {
     background-color: #FFF4D6;
     width: 800px;
@@ -192,6 +198,9 @@ form {
     border: none;
     border-radius: 0 5px 5px 0;
 }
+/* subscribe form ended */
+
+/* footer started */
 footer {
     background-color: #000;
     color: white;
@@ -208,3 +217,4 @@ footer h2 {
 footer small {
     color: rgba(255, 255, 255, 0.642);
 }
+/* footer ended */
